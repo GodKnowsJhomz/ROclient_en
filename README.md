@@ -10,6 +10,3 @@ No additional patches will be applied beyond the ones already included.
 These files are intended for private server development and testing only.
 
 Please respect the intended use and do not monetize these files.
-
-20231220+ CLIENT bodystylefix Source : https://github.com/AoShinRO/brHades
-
